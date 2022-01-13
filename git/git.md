@@ -116,3 +116,15 @@ $ git log
   * modified : 커밋에 비해서 수정된 경우
   * staged : 커밋 되기 전 목록 (Staging area)
   * commited : 커밋된 상태
+
+## 정리
+
+== 작업하고 커밋 ==
+git add .
+git commit -m '커밋메시지'
+git push origin master
+== 시작하기 ==
+
+1. git init
+2. GitHub 저장소 만들고 
+git remote add origin <url> 
