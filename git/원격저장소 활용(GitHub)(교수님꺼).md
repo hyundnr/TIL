@@ -2,7 +2,7 @@
 
 ## 원격저장소(remote repository) 활용
 
-## 조희
+## 조회
 
 ```bash
 $ git remote -v
