@@ -5,4 +5,4 @@
 ### 목차
 
 1. [git](./git)
-2. 
+2. [python](./python)
