@@ -83,6 +83,18 @@ for i in list_alphabet:
         result_list.append(-1)
 print(result_list)
 
+##
+S = input()
+result = ""
+al_list = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+for letter in al_list:
+    if letter in S:
+        result = result + str(S.index(letter)) + " "
+    else:
+        result = result + str(-1) + " "
+print(result)
 
 ```
+
+
 
